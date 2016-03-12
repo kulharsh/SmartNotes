@@ -1,0 +1,4 @@
+out/
+/solr-5.4.0
+node_modules
+.idea
